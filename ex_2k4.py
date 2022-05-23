@@ -1,0 +1,6 @@
+# #ENCODE BY MR. EX
+
+import base64
+
+exec(base64.b64decode('cHJpbnQgKCJcMDMzWzE7OTBtTWFpbnRlbmNlIEJyZWFrIikNCnByaW50ICgiXDAzM1sxOzkxbU5ldyBUb29scyBDb21pbmcgU29vbiIpDQpwcmludCAoIlwwMzNbMTs5Mm1XYWl0IFNvbWUgRGF5cyIpDQpwcmludCAoIlwwMzNbMTs5M21XZSBBcmUgQXBvbG9naXMgRm9yIFlvdXIgRGlzdHVyYmFuY2UiKQ=='))
+
